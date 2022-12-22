@@ -1,0 +1,13 @@
+/* add your styles here */
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.flex img{
+    width: 80vh;
+    margin: 5vh;
+}
+h2{
+    text-align: center;
+}
